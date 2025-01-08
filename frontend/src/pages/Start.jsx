@@ -13,6 +13,7 @@ const Start = () => {
         </div>
       </div>
     </div>
+    
   )
 }
 

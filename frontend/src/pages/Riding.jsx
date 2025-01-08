@@ -25,6 +25,10 @@ const Riding = () => {
                 <LiveTracking />
 
             </div>
+            <div className='h-1/2'>
+                <LiveTracking />
+
+            </div>
             <div className='h-1/2 p-4'>
                 <div className='flex items-center justify-between'>
                     <img className='h-12' src="https://swyft.pl/wp-content/uploads/2023/05/how-many-people-can-a-uberx-take.jpg" alt="" />
